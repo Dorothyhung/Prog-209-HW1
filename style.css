@@ -1,0 +1,28 @@
+body {
+    background-color: lightblue;
+    text-align: center
+  }
+  
+  h1 {
+    color: black;
+    text-align: center;
+    font: verdana
+  }
+
+  .button {
+    background-color:pink;
+    font-weight:bold;
+    border-radius:10px;
+    font-size:20px;
+  }
+
+  .button:hover {
+    background-color:palevioletred;
+    transition: 0.3s;
+  }
+
+  .label {
+    font-weight:bold;
+    font-size:20px;
+  }
+  
